@@ -39,7 +39,7 @@ Adaptable to evolving requirements and changes in the educational environment.
 
 This image is the first page of interface, once you enter student register number and then click submit it will navigate to the next page, details in the excel sheet was display in next page of the interface.
 <p align="center">
-  <img src="https://github.com/Haswanth-18/Data-warehousing-with-IBM-cloud-db2-warehouse/blob/main/images/details.png" width="200" height="500" >
+  <img src="https://github.com/Dhivakar026/Data-warehousing-with-IBM-cloud-db2-warehouse/blob/main/images/details.png" width="200" height="500" >
 </p>
 This is second page of the interface that containing the student details of the unique register number that you have entered in the previous page.
 <p align="center">
