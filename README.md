@@ -43,6 +43,6 @@ This image is the first page of interface, once you enter student register numbe
 </p>
 This is second page of the interface that containing the student details of the unique register number that you have entered in the previous page.
 <p align="center">
-  <img src="https://github.com/Haswanth-18/Data-warehousing-with-IBM-cloud-db2-warehouse/blob/main/images/Screenshot%202023-11-01%20114224.png" width="200" height="500" >
+  <img src="https://github.com/Dhivakar026/Data-warehousing-with-IBM-cloud-db2-warehouse/blob/main/images/Screenshot%202023-11-01%20114224.png" width="200" height="500" >
 </p>
 If Register number entered is wrong, It will indicate as Register number nor found.
